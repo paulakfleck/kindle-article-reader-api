@@ -1,0 +1,15 @@
+{
+  "name": "kindle-article-reader-api",
+  "version": "1.0.0",
+  "description": "API to integrate Mercury with the main app source code, kindle-article-reader.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "Paula Fleck",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
